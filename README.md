@@ -1,8 +1,6 @@
-# ES2015 Quick Start #
+# Recitus CLI #
 
-A quick start sample project in ES2015
-
-See everything in the files
+A CLI implementation of [recitus](https://github.com/gyf1214/recitus-core).
 
 ## Author ##
 
