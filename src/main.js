@@ -60,7 +60,7 @@ function answer(q) {
 
 function open() {
   if (recitus.empty()) {
-    rl.write('end');
+    rl.write('end\n');
     recitus.stop();
     rl.close();
   } else {
